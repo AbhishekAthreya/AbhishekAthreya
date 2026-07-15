@@ -16,7 +16,7 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/abhishek-athreya-55173b41b"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:abhishekathreya946@gmail.com"><img src="https://img.shields.io/badge/Email-EF476F?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=abhishekathreya946@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-EF476F?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://github.com/AbhishekAthreya"><img src="https://img.shields.io/badge/GitHub-073B4C?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </div>
 
@@ -162,10 +162,10 @@ Pursuing a Bachelor of Engineering in Computer Science with a specialized focus 
 ## Coding & Security Profiles
 
 <div align="center">
-  <a href="#"><img src="https://img.shields.io/badge/TryHackMe_Profile-88CC14?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/HackTheBox_Researcher-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" alt="HTB" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/LeetCode_Algorithms-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/HackerRank_Problem_Solving-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" /></a>
+  <a href="https://tryhackme.com/p/abhishekathreya946"><img src="https://img.shields.io/badge/TryHackMe_Profile-88CC14?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe" /></a>
+  <a href="https://profile.hackthebox.com/profile/019f65ec-ac4e-7275-9edf-7c4032348b27"><img src="https://img.shields.io/badge/HackTheBox_Researcher-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" alt="HTB" /></a>
+  <a href="https://leetcode.com/u/p08TGZuIlW/"><img src="https://img.shields.io/badge/LeetCode_Algorithms-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+  <a href="https://www.hackerrank.com/profile/abhishekathreya1"><img src="https://img.shields.io/badge/HackerRank_Problem_Solving-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" /></a>
 </div>
 
 ---
